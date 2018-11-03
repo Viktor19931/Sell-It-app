@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Admin/Documents/test_projects/React-native/sellitApp/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/Admin/Documents/test_projects/React-native/sellitApp/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_228d2af106e1b060785f0435d12f3b87972ef33e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Admin/Documents/test_projects/React-native/sellitApp/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/Admin/Documents/test_projects/React-native/sellitApp/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_7ec5cf554fc792917229defb7619f51cad81682d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Admin/Documents/test_projects/React-native/sellitApp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/Admin/Documents/test_projects/React-native/sellitApp/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_f1ae04e3815738242717f2d2912cdd37a94f3ccd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Admin/Documents/test_projects/React-native/sellitApp/android/app/build/intermediates/exploded-aar/com.balysv.materialmenu/material-menu/1.5.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1f6ff1728c297524e82b875ce2dfda946f4bca41">
+        <dex dex="/Users/Admin/Documents/test_projects/React-native/sellitApp/android/app/build/intermediates/pre-dexed/debug/com.balysv.materialmenu-material-menu-1.5.4_83e55db28a1e7fd2cbe55ab2dffe982407a567d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Admin/Documents/test_projects/React-native/sellitApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/Admin/Documents/test_projects/React-native/sellitApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_f2710fe2c7f0e9a6d9afe75f925b19cbb827679d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Admin/Documents/test_projects/React-native/sellitApp/android/app/build/intermediates/exploded-aar/com.balysv.materialmenu/material-menu-toolbar/1.5.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="55d7bf547c88cb7c8c7c5cdbf3b06dd66c9750f8">
+        <dex dex="/Users/Admin/Documents/test_projects/React-native/sellitApp/android/app/build/intermediates/pre-dexed/debug/com.balysv.materialmenu-material-menu-toolbar-1.5.4_17d686bfe06a32988f13397cf56ed673e9d1ec66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Admin/Documents/test_projects/React-native/sellitApp/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/Admin/Documents/test_projects/React-native/sellitApp/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_a80cc24de3086023ba1f42db37ca7e7efb7660de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Admin/Documents/test_projects/React-native/sellitApp/android/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/Admin/Documents/test_projects/React-native/sellitApp/android/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.3.1_cf74174fae4f96c2543c756a308fe426fd484203.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Admin/Documents/test_projects/React-native/sellitApp/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Admin/Documents/test_projects/React-native/sellitApp/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_5aca799c24ee241c50525c0771f6309a1f265a36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Admin/Documents/test_projects/React-native/sellitApp/android/app/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/Admin/Documents/test_projects/React-native/sellitApp/android/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.3.1_29b9f31519972af3c149b7677d522c57bbb4eda7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Admin/Documents/test_projects/React-native/sellitApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/Admin/Documents/test_projects/React-native/sellitApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_ecb2c7eefdffb52f0a4f0d25fbb3e82d712e80d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Admin/Documents/test_projects/React-native/sellitApp/android/app/build/intermediates/exploded-aar/sellitApp/react-native-navigation/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="78a984d8599f2c7b050882a728d7eb16ae16c0b6">
+        <dex dex="/Users/Admin/Documents/test_projects/React-native/sellitApp/android/app/build/intermediates/pre-dexed/debug/sellitApp-react-native-navigation-unspecified_f5e02e4eb0c1dcde7b0eed68f64cb033d78f7568.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Admin/Documents/test_projects/React-native/sellitApp/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/Admin/Documents/test_projects/React-native/sellitApp/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_8542451d9e3363a7a50db3ac856d10393f33450f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Admin/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/Admin/Documents/test_projects/React-native/sellitApp/android/app/build/intermediates/pre-dexed/debug/library-2.4.0_3ad5ef2e400941ea6765d3d897ed7be302b5f9a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Admin/Documents/test_projects/React-native/sellitApp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="/Users/Admin/Documents/test_projects/React-native/sellitApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.55.4_6d0d046c869e16b41aa68d2673f6f1b1c838e6b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Admin/Documents/test_projects/React-native/sellitApp/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/Admin/Documents/test_projects/React-native/sellitApp/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_2571b68c444b810eeb237ebd1f178399836b5ac9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Admin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/Admin/Documents/test_projects/React-native/sellitApp/android/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_3b37058a90ec617737c5c66a3042f0d8f95bdd22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Admin/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/Admin/Documents/test_projects/React-native/sellitApp/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_eeafb9b5d58259d49f0e7e6e70bd94f2ec714ee5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Admin/Documents/test_projects/React-native/sellitApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/Admin/Documents/test_projects/React-native/sellitApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_d9ee60e6364c7d33cf079204c4574d7840fdd8fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Admin/Documents/test_projects/React-native/sellitApp/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/Admin/Documents/test_projects/React-native/sellitApp/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_50e5caefc85784fd11c9e5ffc9643f58f94ce601.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Admin/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/Admin/Documents/test_projects/React-native/sellitApp/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_cb172a339f4db599f38e1c4cf8fa8eed1ee8c79a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Admin/Documents/test_projects/React-native/sellitApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/Admin/Documents/test_projects/React-native/sellitApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_51f0d9316b199278f382f98845dd0b212c3c3f7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Admin/Documents/test_projects/React-native/sellitApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/Admin/Documents/test_projects/React-native/sellitApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_ff720cf179e41b151572351b116c66f421794f82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Admin/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/Admin/Documents/test_projects/React-native/sellitApp/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_01033f0f9c96ff8d909086a628841538cad06944.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Admin/Documents/test_projects/React-native/sellitApp/android/app/build/intermediates/exploded-aar/com.aurelhubert/ahbottomnavigation/2.0.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c8ba41bea7f78f8bdf3a803b9d08eb3fff416706">
+        <dex dex="/Users/Admin/Documents/test_projects/React-native/sellitApp/android/app/build/intermediates/pre-dexed/debug/com.aurelhubert-ahbottomnavigation-2.0.6_c6cc74b9200619069cdb7fe0cd8f6ca287174900.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Admin/Documents/test_projects/React-native/sellitApp/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/Admin/Documents/test_projects/React-native/sellitApp/android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.3.1_9e744cc33ab1508c6e93dbb5724ece3799a0de04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Admin/Documents/test_projects/React-native/sellitApp/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/Admin/Documents/test_projects/React-native/sellitApp/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_c64f4468b2eed86968e6fc59e38e4aa3cfe8fb55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Admin/Documents/test_projects/React-native/sellitApp/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/Admin/Documents/test_projects/React-native/sellitApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_6aa2cac9ae645a034e79e50166caf898535d49cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Admin/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/Admin/Documents/test_projects/React-native/sellitApp/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_ee0413c358b4c7eb552af1a10e34c754dc5321a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Admin/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/Admin/Documents/test_projects/React-native/sellitApp/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_9dd07bd60328c2ca92da75124d94374e35e83cb5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Admin/Documents/test_projects/React-native/sellitApp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/Admin/Documents/test_projects/React-native/sellitApp/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_8dd3005947334f51f849d408236e9c3829537085.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Admin/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/Admin/Documents/test_projects/React-native/sellitApp/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_5f1c4d806bceef3e5c1c52d59815a2a4692c92ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Admin/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/Admin/Documents/test_projects/React-native/sellitApp/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_800cd89e59e6ee4cd481f8ac5a8ee28dc5ce7183.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Admin/Documents/test_projects/React-native/sellitApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/Admin/Documents/test_projects/React-native/sellitApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_a9fc73a90a57e2a367c8830efc04bea7a6f499d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Admin/Documents/test_projects/React-native/sellitApp/android/app/build/intermediates/exploded-aar/sellitApp/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
+        <dex dex="/Users/Admin/Documents/test_projects/React-native/sellitApp/android/app/build/intermediates/pre-dexed/debug/sellitApp-react-native-vector-icons-unspecified_6799350c5e2f5bdb02ba750b4b1f89d7362459d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Admin/Documents/test_projects/React-native/sellitApp/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/Admin/Documents/test_projects/React-native/sellitApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_e428d71d8dc0efa33ce213eb63d73a103ee297d7.jar" />
+    </item>
+
+</items>

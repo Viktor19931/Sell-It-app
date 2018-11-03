@@ -1,0 +1,89 @@
+import React, {Component} from 'react';
+import {View, Text, StyleSheet, Easing, Animated, Dimensions} from 'react-native';
+
+
+class Logo extends Component {
+    state = {
+        sellAnim: new Animated.Value(0),
+        itAnim: new Animated.Value(0)
+    };
+
+    componentWillMount() {
+        Animated.sequence([
+            Animated.timing(this.state.sellAnim, {
+                toValue: 1,
+                duration: 1000,
+                easing: Easing.easeOutCubic
+            }),
+            Animated.timing(this.state.itAnim, {
+                toValue: 1,
+                duration: 500,
+                easing: Easing.easeOutCubic
+            })
+        ]).start(() => {
+            this.props.showLogin()
+        });
+    }
+
+    render() {
+        const { logoStylesPortrait, logoStylesLandscape, sellTextStyle, itTextStyle } = styles;
+        return (
+            <View>
+                <View style={
+                    this.props.orientation === "portrait"
+                    ? logoStylesPortrait
+                    : logoStylesLandscape
+                }>
+                    <Animated.View
+                        style={{
+                            opacity: this.state.sellAnim,
+                            top: this.state.sellAnim.interpolate({
+                                inputRange: [0, 1],
+                                outputRange: [100, 0]
+                            })
+                        }}
+                    >
+                        <Text style={sellTextStyle}>Sell</Text>
+                    </Animated.View>
+                    <Animated.View
+                        style={{
+                            opacity: this.state.itAnim
+                        }}
+                    >
+                        <Text style={itTextStyle}>It</Text>
+                    </Animated.View>
+                </View>
+            </View>
+        );
+    }
+}
+
+const styles = StyleSheet.create({
+    container: {
+        flex: 1,
+    },
+    logoStylesPortrait: {
+        marginTop: 50,
+        flex: 1,
+        flexDirection: 'row',
+        maxHeight: 100
+    },
+    logoStylesLandscape: {
+        marginTop: 20,
+        flex: 1,
+        flexDirection: 'row',
+        maxHeight: 50
+    },
+    sellTextStyle: {
+        fontSize: 40,
+        fontFamily: 'Roboto-Regular',
+        color: "#555555"
+    },
+    itTextStyle: {
+        fontSize: 40,
+        fontFamily: 'Roboto-Regular',
+        color: "#00ADA9"
+    }
+});
+
+export default Logo;
